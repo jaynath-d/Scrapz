@@ -1,7 +1,7 @@
 {
-  "name": "npm-starter-kit",
+  "name": "npm-datafy",
   "version": "1.0.0",
-  "description": "A sample NPM package with TypeScript and Jest",
+  "description": "Streamlined web scraping and data conversion for Node.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
